@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-    const [movies, setMovies] = useState([]);
+    const [movies, setMovies] = useState(['Movie 1', 'Movie 2']);
 
     return (
         <div className="App">
