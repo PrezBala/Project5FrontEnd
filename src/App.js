@@ -5,6 +5,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Movie Rater</h1>
+        <div className="layout">
+            <div>Movie list</div>
+            <div>Movie details</div> 
+        </div>
       </header>
     </div>
   );
